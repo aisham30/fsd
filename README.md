@@ -22,7 +22,7 @@ Technologies Used:
 Live Website:
 
 Add your GitHub Pages link here.
-https://aisham30.github.io/fsd/exp1/
+https://aisham30.github.io/fsd/
 
 
 Created by Aisha Mendonsa**
